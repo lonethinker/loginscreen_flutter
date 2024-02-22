@@ -1,6 +1,6 @@
-# workshop1
+# 1st Homework of workshop
 
-A new Flutter project.
+a basic login screen
 
 ## Getting Started
 
